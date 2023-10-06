@@ -16,19 +16,19 @@ project.lock.json
 *.sln.docstates
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
-msbuild.log
-msbuild.err
-msbuild.wrn
+Display Rotater/[Dd]ebug/
+Display Rotater/[Dd]ebugPublic/
+Display Rotater/[Rr]elease/
+Display Rotater/[Rr]eleases/
+Display Rotater/x64/
+Display Rotater/x86/
+Display Rotater/build/
+Display Rotater/bld/
+Display Rotater/[Bb]in/
+Display Rotater/[Oo]bj/
+Display Rotater/msbuild.log
+Display Rotater/msbuild.err
+Display Rotater/msbuild.wrn
 
 # Visual Studio 2015
 .vs/
