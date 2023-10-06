@@ -1,0 +1,11 @@
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\bin\Release\favicon.ico
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\bin\Release\Display Rotater.exe.config
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\bin\Release\Display Rotater.exe
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\bin\Release\Display Rotater.pdb
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\obj\Release\Display Rotater.csproj.AssemblyReference.cache
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\obj\Release\Display_Rotater.Form1.resources
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\obj\Release\Display_Rotater.Properties.Resources.resources
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\obj\Release\Display Rotater.csproj.GenerateResource.cache
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\obj\Release\Display Rotater.csproj.CoreCompileInputs.cache
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\obj\Release\Display Rotater.exe
+C:\Users\Nolwen\source\repos\Display Rotater\Display Rotater\obj\Release\Display Rotater.pdb
